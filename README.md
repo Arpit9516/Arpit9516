@@ -28,6 +28,12 @@ Power BI | Tableau | Excel
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpit-methil&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-methil&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=arpit-methil&theme=tokyonight)
+
 
 ## 📊 Key Skills
 
