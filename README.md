@@ -66,10 +66,6 @@ Translating complex data into simple, actionable insights
 
 * Built an interactive dashboard to track KPIs and sales performance
 
-🔸 ** Student Depression (Python+machine Learning)**
-
-* 
-
 🔸 **UPI Transaction Analysis (Excel + Mysql + Python + Power bi)**
 
 * Analyzed transaction patterns and trends using real-world datasets
